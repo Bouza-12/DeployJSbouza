@@ -1,0 +1,15 @@
+body{
+    background: rgb(217, 230, 217);
+}
+
+a{
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-top: 50px;
+}
+
+.container{
+    margin-left:200px;
+    margin-right:200px;
+}
+
